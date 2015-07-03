@@ -1,0 +1,15 @@
+#container {
+    position: absolute;
+    margin: -250px;
+    left: 50%;
+    top: 50%;
+}
+#content {
+    height: 300px;
+    margin-bottom: 20px;
+    border: solid 1px #999;
+    overflow-y: scroll;
+}
+#content, #username-textbox, #message-textbox, #send-button{
+    width: 500px;
+}

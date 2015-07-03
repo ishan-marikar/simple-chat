@@ -1,0 +1,15 @@
+{
+  "name": "RealtimeChat",
+  "version": "0.0.1",
+  "description": "A real-time chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ishan Marikar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.0",
+    "socket.io": "^1.3.5"
+  }
+}
